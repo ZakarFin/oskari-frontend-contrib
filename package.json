@@ -6,7 +6,7 @@
     "Oskari"
   ],
   "dependencies": {
-    "oskari-frontend": "git+https://git@github.com/ZakarFin/oskari-frontend.git#tampere155",
+    "oskari-frontend": "git+https://git@github.com/ZakarFin/oskari-frontend.git#tampere155"
   },
   "scripts": {
     "dev-mode": "node ./node_modules/oskari-frontend/scripts/oskari-dev-mode",
