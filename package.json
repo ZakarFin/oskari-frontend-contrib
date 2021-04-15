@@ -6,7 +6,7 @@
     "Oskari"
   ],
   "dependencies": {
-    "oskari-frontend": "git+https://git@github.com/oskariorg/oskari-frontend.git#develop"
+    "oskari-frontend": "git+https://git@github.com/ZakarFin/oskari-frontend.git#latest-hierarchy"
   },
   "engines": {
     "node": ">=10.12.0",
